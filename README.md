@@ -9,7 +9,7 @@
 
 # Communicate using Markdown
 
-_Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
+_Organize ideas and collaborate using Markdown, a lightweight language for text formatting helps to find out a clear information about the system._
 
 </header>
 
